@@ -13,7 +13,7 @@ for (var i = 0; i < names.length; i++) {
     console.log(names[i] + "\n");
 }
 var nums = [1, 7, 8, 67, 9];
-console.log("=============   looop-2   ==================");
+console.log("=============   looop-2   ====================");
 console.log("=============   looop-2  seems like php loop ================");
 var sum = 0;
 for (var _i = 0, nums_1 = nums; _i < nums_1.length; _i++) {
